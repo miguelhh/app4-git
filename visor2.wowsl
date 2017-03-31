@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/cursive/</ImageTemplate>
+            <ImageTemplateName>Cursive</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>I:/DAM/Segundo Parcial/aplicaciones/app2/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>I:/DAM/Segundo Parcial/aplicaciones/app2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Pacifico</TemplateFont>
+            <TemplateName>cursive</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/bb1.jpg</url>
+                <title>bb1</title>
+                <filesize>11510</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/bb2.jpg</url>
+                <title>bb2</title>
+                <filesize>12778</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/compania1.jpg</url>
+                <title>compania1</title>
+                <filesize>7004</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/companias2.jpg</url>
+                <title>companias2</title>
+                <filesize>8658</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/companias3.jpg</url>
+                <title>companias3</title>
+                <filesize>12473</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/definicion1.jpg</url>
+                <title>definicion1</title>
+                <filesize>74142</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/definicion2.jpg</url>
+                <title>definicion2</title>
+                <filesize>4612</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/definicon3.jpg</url>
+                <title>definicon3</title>
+                <filesize>13278</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/descarga.png</url>
+                <title>descarga</title>
+                <filesize>3036</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/gama1.jpg</url>
+                <title>gama1</title>
+                <filesize>47545</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/gama2.jpg</url>
+                <title>gama2</title>
+                <filesize>277543</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/gama3.jpg</url>
+                <title>gama3</title>
+                <filesize>287084</filesize>
+            </Image>
+            <Image>
+                <url>I:/DAM/Segundo Parcial/aplicaciones/app2/imagenes/historia.jpg</url>
+                <title>historia</title>
+                <filesize>3424</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
